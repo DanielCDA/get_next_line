@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-/* get_next_line.c */
-
 #include "get_next_line.h"
 
 static char	*gnl_read_stash(int fd, char *stash)

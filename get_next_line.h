@@ -12,7 +12,6 @@
 
 char	*get_next_line(int fd);
 
-/* funcoes auxiliares (get_next_line_utils.c) */
 size_t	gnl_strlen(const char *s);
 char	*gnl_strchr(const char *s, int c);
 char	*gnl_strjoin(char *s1, char *s2);
